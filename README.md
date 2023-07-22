@@ -6,11 +6,11 @@ Might create more stuff for Garlic later but it's a bit limited to UI reskins at
 
 ### info
 
-You can find every asset in [**this**](https://www.figma.com/file/BQiohG2Ppo6M1e43ptLCng/4-byte-burger---GarlicOS-theme?type=design&node-id=112%3A2997&mode=design&t=SbXIFdAbM2jWepDl-1) Figma document. Figma is a design tool, you can easily export multiple artboards with a click, or copy the file and play around with it, make changes if you wish. You can find the original assets on the second page of the Figma document.
+You can find every asset in [**this**](https://www.figma.com/file/BQiohG2Ppo6M1e43ptLCng/4-byte-burger---GarlicOS-theme?type=design&node-id=112%3A2997&mode=design&t=SbXIFdAbM2jWepDl-1) Figma document. Figma is a design tool, you can easily export multiple artboards with a click, or copy the file and play around with it. You can find the original assets on the second page.
 
-Figma will export high quality PNG-s, there is no option to compress them. I highly recommend using a PNG compressor like PS, Gimp or an online tool like Photopea. I compress them to 10%, which results in a very low file sizes (basically less colors), yet having still decent quality and very snappy system. Otherwise it was lagging for me. The boot image cannot be compressed as it is a BMP, but thats fine.
+Figma exports high quality PNGs, no option to compress. I recommend compressing them with PS, Gimp or an online tool like Photopea. 90% reduction results in very low file sizes (basically less colors), still decent visuals and very snappy system. Otherwise it was lagging for me. The boot image cannot be compressed as it is a BMP, but thats fine.
 
-You can play around with the settings in the language/English.json or settings.json.  
+You can play around with the settings in the language/English.json or settings.json.
 
 ### assets
 - **boot_logo.bmp.gz:** boot image, place it on the root of the BIOS drive
