@@ -6,6 +6,7 @@ Artwork originally Jack Haege (Amiga, 1985), restored by [Ahoy](https://www.yout
 My first theme for this lovely device. The idea was inspired by this beatiful piece of art, the *four byte burger* and made me want to reuse it somehow. The rest of the stuff was created by me. 
 Might create more stuff for Garlic later but it's a bit limited to UI reskins at the moment.  
 
+![boot image and menu active/inactive states](https://github.com/1301205/garlicOS-4byteburger-theme/blob/main/img.png)
 
 ### Info
 
