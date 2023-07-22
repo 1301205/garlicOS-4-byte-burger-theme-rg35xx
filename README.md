@@ -1,3 +1,5 @@
+![4 byte burger garlic os rg35xx cover](https://github.com/1301205/garlicOS-4byteburger-theme/blob/main/4bb.png)
+
 # 4 byte burger - theme for GarlicOS (Anbernic RG35XX)
 Artwork originally Jack Haege (Amiga, 1985), restored by [Ahoy](https://www.youtube.com/watch?v=i4EFkspO5p4)
 
